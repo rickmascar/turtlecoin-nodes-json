@@ -148,6 +148,13 @@
       "cache": false
     },
     {
+      "name": "Mascarin's LAB node - South America",
+      "url": "mascarins.duckdns.org",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "TeamMatix TurtleNode - Germany",
       "url": "trtl.teammatix.eu",
       "port": 11898,
